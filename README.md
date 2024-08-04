@@ -23,3 +23,6 @@ This dataset consists of varieties of brands, Investment Amounts(In Lakhs INR), 
 🔷Then I plotted bar plot for top 5 investments and top 10 valued companies.
 
 🔷 I also checked total investments made by each shark and found that Total Investments made by Namita Thapar is 476.83333333333(In Lakhs INR) and Total Investments made by Vineeta Singh is 384.83333333333337(In Lakhs INR)
+
+
+#SharkTank #Entrepreneurship #StartupData #BusinessData #DataScience #InvestmentTrends #StartupAnalysis #BusinessAnalytics #InvestmentOpportunities #SharkTankData #EntrepreneurData #MarketTrends #DataVisualization #StartupEcosystem #DataScienceProject
