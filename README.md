@@ -1,28 +1,59 @@
-🚀 Thrilled to share that I've completed another amazing project on Shark Tank dataset in which I followed these following steps! ⤵ 
+# Shark Tank Dataset Analysis
 
-⚫ Leveraged Python, NumPy, and Pandas for data manipulation.
+## Overview
 
-⚫ Conducted thorough Exploratory Data Analysis (EDA).
+I'm excited to share my latest project where I analyzed the Shark Tank dataset to uncover investment trends and insights. The project involved data manipulation, exploratory data analysis (EDA), and visualization to gain a deeper understanding of the investment landscape on Shark Tank.
 
-⚫ Delivered insightful visualizations using Matplotlib and Seaborn.
+## Dataset
 
-This dataset consists of varieties of brands, Investment Amounts(In Lakhs INR), Debt(In Lakhs INR), and the number of sharks who are investing in particular brand. First I read the data and checked for null and duplicate values to remove it. It is observed that
+The dataset includes:
+- **Brands:** Various companies featured on Shark Tank
+- **Investment Amounts:** Investments made by sharks (in Lakhs INR)
+- **Debt:** Debt amounts offered (in Lakhs INR)
+- **Number of Sharks:** Number of sharks investing in each brand
 
-- Maximum Equity Offered is 75 % of the Company
+## Project Steps
 
-- 27 Crore 98 Lakh is the Highest Valuation which was offered by sharks
+### 1. Data Manipulation
 
-- 80 Lakh is the maximum Investment made by Sharks in a brand for season 1
+- **Libraries Used:** Leveraged Python, NumPy, and Pandas for data manipulation.
+- **Data Cleaning:** Read the dataset and checked for null and duplicate values to ensure data integrity.
 
-- 99 Lakh is highest debt offered.
+### 2. Exploratory Data Analysis (EDA)
 
-🔷Then I checked how many sharked invested in each brand. I found that the maximum number of sharks invested in each brand is 5.
+- **Key Insights:**
+  - **Maximum Equity Offered:** 75% of the company
+  - **Highest Valuation:** ₹27 Crore 98 Lakh offered by sharks
+  - **Maximum Investment:** ₹80 Lakh made by sharks in season 1
+  - **Highest Debt Offered:** ₹99 Lakh
 
-🔷After this I checked for interests of sharks and observed that Aman Gupta (co-Founder of Boat) had invested in maximum Companies (i.e. 26 Brands) and Ghazal Alagh (co-Founder of MamaEarth) had invested in minimum Companies (i.e. 7 Brands). 
+- **Sharks' Investment Analysis:**
+  - **Number of Sharks per Brand:** Maximum of 5 sharks invested in each brand
+  - **Shark Interests:** Aman Gupta (co-Founder of Boat) invested in the most companies (26 brands), while Ghazal Alagh (co-Founder of MamaEarth) invested in the fewest (7 brands).
 
-🔷Then I plotted bar plot for top 5 investments and top 10 valued companies.
+### 3. Data Visualization
 
-🔷 I also checked total investments made by each shark and found that Total Investments made by Namita Thapar is 476.83333333333(In Lakhs INR) and Total Investments made by Vineeta Singh is 384.83333333333337(In Lakhs INR)
+- **Top Investments:** Plotted a bar chart showing the top 5 investments.
+- **Top Valued Companies:** Visualized the top 10 companies by valuation.
+- **Total Investments by Shark:** Calculated and visualized total investments made by each shark. Found that Namita Thapar made the highest total investment (₹476.83 Lakhs), followed by Vineeta Singh (₹384.83 Lakhs).
+
+## Technologies and Libraries Used
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Results and Insights
+
+The analysis provided valuable insights into investment patterns on Shark Tank, including:
+- Distribution of investments and valuations
+- Individual shark contributions and interests
+- Investment trends over different seasons
+
+The visualizations offer a clear understanding of which sharks are investing the most and which brands are attracting the highest valuations.
 
 
-#SharkTank #Entrepreneurship #StartupData #BusinessData #DataScience #InvestmentTrends #StartupAnalysis #BusinessAnalytics #InvestmentOpportunities #SharkTankData #EntrepreneurData #MarketTrends #DataVisualization #StartupEcosystem #DataScienceProject
+
+
